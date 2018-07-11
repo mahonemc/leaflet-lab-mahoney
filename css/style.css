@@ -1,0 +1,76 @@
+body {
+	background-color: lemonchiffon;
+	font-family: Verdana;
+}
+
+
+#map {
+    height: 400px;
+    width: 80%;
+    display: inline-block;
+	
+}
+
+
+.legend-control-container {
+	width: 150px;
+    height: 100px;
+	background-color: rgba(255,255,255,0.8);
+    padding: 15px;
+    line-height: 45px;
+    text-align: center;
+    border: solid black 1px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 1em;
+	
+	#temporal-legend {
+	width: 100px;
+    height: 50px;
+    background-color: rgba(255,255,255,0.8);
+    padding: 10px;
+    line-height: 45px;
+    text-align: center;
+    border: solid gray 1px;
+	
+}
+	
+}
+
+
+
+
+.leaflet-popup-content p {
+    margin: 0.2em 0;
+}
+
+#forward {
+    float: right;
+    
+    
+}
+
+#reverse {
+    float: left;
+    
+    
+}
+
+.sequence-control-container {
+    width: 350px;
+    height: 30px;
+    background-color: rgba(255,255,255,0.8);
+    padding: 10px;
+    line-height: 45px;
+    text-align: center;
+    border: solid gray 1px;
+}
+
+.range-slider {
+    width: 200px;
+}
+
+#header {
+	text-align: center;
+	font-size: 2.5em;
+	font-family: fantasy;
+}

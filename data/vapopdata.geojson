@@ -1,0 +1,3463 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "county": "Accomack County",
+        "state": "Virginia",
+        "rescen4_2010": 33164,
+        "resbase4_2010": 33164,
+        "respop7_2010": 33147,
+        "respop7_2011": 33222,
+        "respop7_2012": 33264,
+        "respop7_2013": 32963,
+        "respop7_2014": 32965,
+        "respop7_2015": 32911,
+        "respop7_2016": 32818,
+        "respop7_2017": 32545,
+        "fipid": 51001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7563553,
+          37.7634277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "county": "Albemarle County",
+        "state": "Virginia",
+        "rescen4_2010": 98970,
+        "resbase4_2010": 98990,
+        "respop7_2010": 99214,
+        "respop7_2011": 100259,
+        "respop7_2012": 101476,
+        "respop7_2013": 102349,
+        "respop7_2014": 103835,
+        "respop7_2015": 105218,
+        "respop7_2016": 106419,
+        "respop7_2017": 107702,
+        "fipid": 51003
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.556694,
+          38.0227585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "county": "Alleghany County",
+        "state": "Virginia",
+        "rescen4_2010": 16250,
+        "resbase4_2010": 16261,
+        "respop7_2010": 16200,
+        "respop7_2011": 16158,
+        "respop7_2012": 16030,
+        "respop7_2013": 15917,
+        "respop7_2014": 15604,
+        "respop7_2015": 15429,
+        "respop7_2016": 15372,
+        "respop7_2017": 15122,
+        "fipid": 51005
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0067139,
+          37.7877274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "county": "Amelia County",
+        "state": "Virginia",
+        "rescen4_2010": 12690,
+        "resbase4_2010": 12695,
+        "respop7_2010": 12746,
+        "respop7_2011": 12752,
+        "respop7_2012": 12747,
+        "respop7_2013": 12659,
+        "respop7_2014": 12717,
+        "respop7_2015": 12784,
+        "respop7_2016": 12830,
+        "respop7_2017": 13020,
+        "fipid": 51007
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9763184,
+          37.3360863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "county": "Amherst County",
+        "state": "Virginia",
+        "rescen4_2010": 32353,
+        "resbase4_2010": 32354,
+        "respop7_2010": 32388,
+        "respop7_2011": 32110,
+        "respop7_2012": 32436,
+        "respop7_2013": 32156,
+        "respop7_2014": 32039,
+        "respop7_2015": 31638,
+        "respop7_2016": 31667,
+        "respop7_2017": 31594,
+        "fipid": 51009
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1451111,
+          37.6048088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "county": "Appomattox County",
+        "state": "Virginia",
+        "rescen4_2010": 14973,
+        "resbase4_2010": 15025,
+        "respop7_2010": 15095,
+        "respop7_2011": 15104,
+        "respop7_2012": 15241,
+        "respop7_2013": 15316,
+        "respop7_2014": 15340,
+        "respop7_2015": 15468,
+        "respop7_2016": 15505,
+        "respop7_2017": 15681,
+        "fipid": 51011
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.812233,
+          37.372364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "county": "Arlington County",
+        "state": "Virginia",
+        "rescen4_2010": 207627,
+        "resbase4_2010": 207684,
+        "respop7_2010": 209388,
+        "respop7_2011": 216430,
+        "respop7_2012": 221729,
+        "respop7_2013": 225624,
+        "respop7_2014": 226503,
+        "respop7_2015": 228969,
+        "respop7_2016": 231610,
+        "respop7_2017": 234965,
+        "fipid": 51013
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1009598,
+          38.8785324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "county": "Augusta County",
+        "state": "Virginia",
+        "rescen4_2010": 73750,
+        "resbase4_2010": 73751,
+        "respop7_2010": 73583,
+        "respop7_2011": 73641,
+        "respop7_2012": 73576,
+        "respop7_2013": 73847,
+        "respop7_2014": 73885,
+        "respop7_2015": 74301,
+        "respop7_2016": 74774,
+        "respop7_2017": 75144,
+        "fipid": 51015
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1338959,
+          38.1644516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "county": "Bath County",
+        "state": "Virginia",
+        "rescen4_2010": 4731,
+        "resbase4_2010": 4727,
+        "respop7_2010": 4721,
+        "respop7_2011": 4655,
+        "respop7_2012": 4640,
+        "respop7_2013": 4588,
+        "respop7_2014": 4533,
+        "respop7_2015": 4460,
+        "respop7_2016": 4413,
+        "respop7_2017": 4297,
+        "fipid": 51017
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7411957,
+          38.0586243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "county": "Bedford County",
+        "state": "Virginia",
+        "rescen4_2010": 68676,
+        "resbase4_2010": 74929,
+        "respop7_2010": 75040,
+        "respop7_2011": 75560,
+        "respop7_2012": 75758,
+        "respop7_2013": 76195,
+        "respop7_2014": 77035,
+        "respop7_2015": 77562,
+        "respop7_2016": 77828,
+        "respop7_2017": 77974,
+        "fipid": 51019
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5241928,
+          37.3151703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "county": "Bland County",
+        "state": "Virginia",
+        "rescen4_2010": 6824,
+        "resbase4_2010": 6824,
+        "respop7_2010": 6799,
+        "respop7_2011": 6776,
+        "respop7_2012": 6695,
+        "respop7_2013": 6675,
+        "respop7_2014": 6587,
+        "respop7_2015": 6535,
+        "respop7_2016": 6475,
+        "respop7_2017": 6350,
+        "fipid": 51021
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1302109,
+          37.1340942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "county": "Botetourt County",
+        "state": "Virginia",
+        "rescen4_2010": 33148,
+        "resbase4_2010": 33148,
+        "respop7_2010": 33196,
+        "respop7_2011": 32998,
+        "respop7_2012": 33118,
+        "respop7_2013": 32990,
+        "respop7_2014": 33074,
+        "respop7_2015": 33340,
+        "respop7_2016": 33150,
+        "respop7_2017": 33192,
+        "fipid": 51023
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.812294,
+          37.5571518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "county": "Brunswick County",
+        "state": "Virginia",
+        "rescen4_2010": 17434,
+        "resbase4_2010": 17425,
+        "respop7_2010": 17406,
+        "respop7_2011": 17131,
+        "respop7_2012": 17035,
+        "respop7_2013": 16661,
+        "respop7_2014": 16495,
+        "respop7_2015": 16502,
+        "respop7_2016": 16275,
+        "respop7_2017": 16244,
+        "fipid": 51025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8589859,
+          36.7647095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "county": "Buchanan County",
+        "state": "Virginia",
+        "rescen4_2010": 24098,
+        "resbase4_2010": 24100,
+        "respop7_2010": 24082,
+        "respop7_2011": 23818,
+        "respop7_2012": 23813,
+        "respop7_2013": 23617,
+        "respop7_2014": 23134,
+        "respop7_2015": 22687,
+        "respop7_2016": 22102,
+        "respop7_2017": 21514,
+        "fipid": 51027
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0360413,
+          37.2666588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "county": "Buckingham County",
+        "state": "Virginia",
+        "rescen4_2010": 17146,
+        "resbase4_2010": 17140,
+        "respop7_2010": 17092,
+        "respop7_2011": 17212,
+        "respop7_2012": 17068,
+        "respop7_2013": 17156,
+        "respop7_2014": 16938,
+        "respop7_2015": 17022,
+        "respop7_2016": 17060,
+        "respop7_2017": 17065,
+        "fipid": 51029
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5288162,
+          37.5718994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "county": "Campbell County",
+        "state": "Virginia",
+        "rescen4_2010": 54842,
+        "resbase4_2010": 54820,
+        "respop7_2010": 54912,
+        "respop7_2011": 54791,
+        "respop7_2012": 54835,
+        "respop7_2013": 55086,
+        "respop7_2014": 55254,
+        "respop7_2015": 55258,
+        "respop7_2016": 55180,
+        "respop7_2017": 55010,
+        "fipid": 51031
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.096405,
+          37.2055855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "county": "Caroline County",
+        "state": "Virginia",
+        "rescen4_2010": 28545,
+        "resbase4_2010": 28558,
+        "respop7_2010": 28641,
+        "respop7_2011": 28677,
+        "respop7_2012": 28954,
+        "respop7_2013": 29261,
+        "respop7_2014": 29754,
+        "respop7_2015": 29898,
+        "respop7_2016": 30071,
+        "respop7_2017": 30461,
+        "fipid": 51033
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3472595,
+          38.0267677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "county": "Carroll County",
+        "state": "Virginia",
+        "rescen4_2010": 30042,
+        "resbase4_2010": 30076,
+        "respop7_2010": 30074,
+        "respop7_2011": 30092,
+        "respop7_2012": 29918,
+        "respop7_2013": 29907,
+        "respop7_2014": 29699,
+        "respop7_2015": 29822,
+        "respop7_2016": 29699,
+        "respop7_2017": 29708,
+        "fipid": 51035
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.733963,
+          36.7315674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "county": "Charles City County",
+        "state": "Virginia",
+        "rescen4_2010": 7256,
+        "resbase4_2010": 7256,
+        "respop7_2010": 7259,
+        "respop7_2011": 7204,
+        "respop7_2012": 7126,
+        "respop7_2013": 7071,
+        "respop7_2014": 6975,
+        "respop7_2015": 7038,
+        "respop7_2016": 7023,
+        "respop7_2017": 7004,
+        "fipid": 51036
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0585709,
+          37.3541451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "county": "Charlotte County",
+        "state": "Virginia",
+        "rescen4_2010": 12586,
+        "resbase4_2010": 12591,
+        "respop7_2010": 12562,
+        "respop7_2011": 12490,
+        "respop7_2012": 12395,
+        "respop7_2013": 12277,
+        "respop7_2014": 12177,
+        "respop7_2015": 12176,
+        "respop7_2016": 12130,
+        "respop7_2017": 12119,
+        "fipid": 51037
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6616135,
+          37.0117264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "county": "Chesterfield County",
+        "state": "Virginia",
+        "rescen4_2010": 316236,
+        "resbase4_2010": 316239,
+        "respop7_2010": 317224,
+        "respop7_2011": 320422,
+        "respop7_2012": 323986,
+        "respop7_2013": 327879,
+        "respop7_2014": 332425,
+        "respop7_2015": 335251,
+        "respop7_2016": 338815,
+        "respop7_2017": 343599,
+        "fipid": 51041
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5868988,
+          37.3785896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "county": "Clarke County",
+        "state": "Virginia",
+        "rescen4_2010": 14034,
+        "resbase4_2010": 14025,
+        "respop7_2010": 14011,
+        "respop7_2011": 14187,
+        "respop7_2012": 14242,
+        "respop7_2013": 14250,
+        "respop7_2014": 14320,
+        "respop7_2015": 14255,
+        "respop7_2016": 14322,
+        "respop7_2017": 14508,
+        "fipid": 51043
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9966431,
+          39.1122665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "county": "Craig County",
+        "state": "Virginia",
+        "rescen4_2010": 5190,
+        "resbase4_2010": 5175,
+        "respop7_2010": 5198,
+        "respop7_2011": 5169,
+        "respop7_2012": 5138,
+        "respop7_2013": 5138,
+        "respop7_2014": 5178,
+        "respop7_2015": 5139,
+        "respop7_2016": 5140,
+        "respop7_2017": 5062,
+        "fipid": 51045
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2121887,
+          37.4813004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "county": "Culpeper County",
+        "state": "Virginia",
+        "rescen4_2010": 46689,
+        "resbase4_2010": 46691,
+        "respop7_2010": 46837,
+        "respop7_2011": 47340,
+        "respop7_2012": 47841,
+        "respop7_2013": 48615,
+        "respop7_2014": 49230,
+        "respop7_2015": 49513,
+        "respop7_2016": 50333,
+        "respop7_2017": 51282,
+        "fipid": 51047
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9559631,
+          38.4860573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25,
+        "county": "Cumberland County",
+        "state": "Virginia",
+        "rescen4_2010": 10052,
+        "resbase4_2010": 10039,
+        "respop7_2010": 10028,
+        "respop7_2011": 9982,
+        "respop7_2012": 9839,
+        "respop7_2013": 9845,
+        "respop7_2014": 9839,
+        "respop7_2015": 9746,
+        "respop7_2016": 9742,
+        "respop7_2017": 9811,
+        "fipid": 51049
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2447052,
+          37.5124626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 26,
+        "county": "Dickenson County",
+        "state": "Virginia",
+        "rescen4_2010": 15903,
+        "resbase4_2010": 15882,
+        "respop7_2010": 15853,
+        "respop7_2011": 15782,
+        "respop7_2012": 15712,
+        "respop7_2013": 15531,
+        "respop7_2014": 15348,
+        "respop7_2015": 15206,
+        "respop7_2016": 15040,
+        "respop7_2017": 14782,
+        "fipid": 51051
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3502121,
+          37.1256218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 27,
+        "county": "Dinwiddie County",
+        "state": "Virginia",
+        "rescen4_2010": 28001,
+        "resbase4_2010": 28014,
+        "respop7_2010": 28053,
+        "respop7_2011": 28114,
+        "respop7_2012": 28191,
+        "respop7_2013": 28071,
+        "respop7_2014": 28012,
+        "respop7_2015": 27849,
+        "respop7_2016": 28025,
+        "respop7_2017": 28208,
+        "fipid": 51053
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6322327,
+          37.075901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28,
+        "county": "Essex County",
+        "state": "Virginia",
+        "rescen4_2010": 11151,
+        "resbase4_2010": 11149,
+        "respop7_2010": 11145,
+        "respop7_2011": 11166,
+        "respop7_2012": 11129,
+        "respop7_2013": 11154,
+        "respop7_2014": 11057,
+        "respop7_2015": 11078,
+        "respop7_2016": 11096,
+        "respop7_2017": 11028,
+        "fipid": 51057
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9408493,
+          37.939045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 29,
+        "county": "Fairfax County",
+        "state": "Virginia",
+        "rescen4_2010": 1081726,
+        "resbase4_2010": 1081682,
+        "respop7_2010": 1086734,
+        "respop7_2011": 1105720,
+        "respop7_2012": 1121834,
+        "respop7_2013": 1135460,
+        "respop7_2014": 1139292,
+        "respop7_2015": 1142197,
+        "respop7_2016": 1144636,
+        "respop7_2017": 1148433,
+        "fipid": 51059
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2799988,
+          38.8300018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30,
+        "county": "Fauquier County",
+        "state": "Virginia",
+        "rescen4_2010": 65203,
+        "resbase4_2010": 65263,
+        "respop7_2010": 65474,
+        "respop7_2011": 66063,
+        "respop7_2012": 66591,
+        "respop7_2013": 67174,
+        "respop7_2014": 68161,
+        "respop7_2015": 68445,
+        "respop7_2016": 68784,
+        "respop7_2017": 69465,
+        "fipid": 51061
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.809166,
+          38.7385254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 31,
+        "county": "Floyd County",
+        "state": "Virginia",
+        "rescen4_2010": 15279,
+        "resbase4_2010": 15292,
+        "respop7_2010": 15366,
+        "respop7_2011": 15399,
+        "respop7_2012": 15431,
+        "respop7_2013": 15482,
+        "respop7_2014": 15526,
+        "respop7_2015": 15547,
+        "respop7_2016": 15658,
+        "respop7_2017": 15755,
+        "fipid": 51063
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3625107,
+          36.9315224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 32,
+        "county": "Fluvanna County",
+        "state": "Virginia",
+        "rescen4_2010": 25691,
+        "resbase4_2010": 25741,
+        "respop7_2010": 25790,
+        "respop7_2011": 25956,
+        "respop7_2012": 25885,
+        "respop7_2013": 25826,
+        "respop7_2014": 25974,
+        "respop7_2015": 26122,
+        "respop7_2016": 26169,
+        "respop7_2017": 26452,
+        "fipid": 51065
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2778244,
+          37.8417854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 33,
+        "county": "Franklin County",
+        "state": "Virginia",
+        "rescen4_2010": 56159,
+        "resbase4_2010": 56139,
+        "respop7_2010": 56189,
+        "respop7_2011": 56343,
+        "respop7_2012": 56299,
+        "respop7_2013": 56279,
+        "respop7_2014": 56272,
+        "respop7_2015": 56231,
+        "respop7_2016": 56159,
+        "respop7_2017": 56445,
+        "fipid": 51067
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8809128,
+          36.9919586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 34,
+        "county": "Frederick County",
+        "state": "Virginia",
+        "rescen4_2010": 78305,
+        "resbase4_2010": 78287,
+        "respop7_2010": 78573,
+        "respop7_2011": 79528,
+        "respop7_2012": 80259,
+        "respop7_2013": 81501,
+        "respop7_2014": 82740,
+        "respop7_2015": 83512,
+        "respop7_2016": 84684,
+        "respop7_2017": 86484,
+        "fipid": 51069
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2625885,
+          39.204586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 35,
+        "county": "Giles County",
+        "state": "Virginia",
+        "rescen4_2010": 17286,
+        "resbase4_2010": 17286,
+        "respop7_2010": 17316,
+        "respop7_2011": 17149,
+        "respop7_2012": 17017,
+        "respop7_2013": 16986,
+        "respop7_2014": 16851,
+        "respop7_2015": 16773,
+        "respop7_2016": 16887,
+        "respop7_2017": 16837,
+        "fipid": 51071
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7036514,
+          37.3140411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 36,
+        "county": "Gloucester County",
+        "state": "Virginia",
+        "rescen4_2010": 36858,
+        "resbase4_2010": 36858,
+        "respop7_2010": 36939,
+        "respop7_2011": 36885,
+        "respop7_2012": 36834,
+        "respop7_2013": 36765,
+        "respop7_2014": 37019,
+        "respop7_2015": 36999,
+        "respop7_2016": 37101,
+        "respop7_2017": 37292,
+        "fipid": 51073
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5139618,
+          37.3955307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 37,
+        "county": "Goochland County",
+        "state": "Virginia",
+        "rescen4_2010": 21717,
+        "resbase4_2010": 21694,
+        "respop7_2010": 21749,
+        "respop7_2011": 21377,
+        "respop7_2012": 21279,
+        "respop7_2013": 21569,
+        "respop7_2014": 21851,
+        "respop7_2015": 22159,
+        "respop7_2016": 22475,
+        "respop7_2017": 22685,
+        "fipid": 51075
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9162216,
+          37.7220192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 38,
+        "county": "Grayson County",
+        "state": "Virginia",
+        "rescen4_2010": 15533,
+        "resbase4_2010": 15554,
+        "respop7_2010": 15498,
+        "respop7_2011": 15366,
+        "respop7_2012": 15143,
+        "respop7_2013": 15131,
+        "respop7_2014": 15921,
+        "respop7_2015": 15953,
+        "respop7_2016": 15869,
+        "respop7_2017": 15665,
+        "fipid": 51077
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2250214,
+          36.6566086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 39,
+        "county": "Greene County",
+        "state": "Virginia",
+        "rescen4_2010": 18403,
+        "resbase4_2010": 18393,
+        "respop7_2010": 18462,
+        "respop7_2011": 18667,
+        "respop7_2012": 18816,
+        "respop7_2013": 18842,
+        "respop7_2014": 19092,
+        "respop7_2015": 19190,
+        "respop7_2016": 19331,
+        "respop7_2017": 19612,
+        "fipid": 51079
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4668579,
+          38.2978897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 40,
+        "county": "Greensville County",
+        "state": "Virginia",
+        "rescen4_2010": 12243,
+        "resbase4_2010": 12245,
+        "respop7_2010": 12234,
+        "respop7_2011": 11966,
+        "respop7_2012": 11718,
+        "respop7_2013": 11594,
+        "respop7_2014": 11473,
+        "respop7_2015": 11731,
+        "respop7_2016": 11551,
+        "respop7_2017": 11679,
+        "fipid": 51081
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5596085,
+          36.6757584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 41,
+        "county": "Halifax County",
+        "state": "Virginia",
+        "rescen4_2010": 36241,
+        "resbase4_2010": 36241,
+        "respop7_2010": 36186,
+        "respop7_2011": 35976,
+        "respop7_2012": 35717,
+        "respop7_2013": 35370,
+        "respop7_2014": 35181,
+        "respop7_2015": 35070,
+        "respop7_2016": 34964,
+        "respop7_2017": 34563,
+        "fipid": 51083
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9365234,
+          36.7669907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 42,
+        "county": "Hanover County",
+        "state": "Virginia",
+        "rescen4_2010": 99863,
+        "resbase4_2010": 99846,
+        "respop7_2010": 99900,
+        "respop7_2011": 99906,
+        "respop7_2012": 100344,
+        "respop7_2013": 101066,
+        "respop7_2014": 101709,
+        "respop7_2015": 103045,
+        "respop7_2016": 104347,
+        "respop7_2017": 105923,
+        "fipid": 51085
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4909134,
+          37.7602234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 43,
+        "county": "Henrico County",
+        "state": "Virginia",
+        "rescen4_2010": 306935,
+        "resbase4_2010": 306868,
+        "respop7_2010": 307430,
+        "respop7_2011": 310812,
+        "respop7_2012": 315830,
+        "respop7_2013": 319197,
+        "respop7_2014": 322391,
+        "respop7_2015": 324732,
+        "respop7_2016": 326147,
+        "respop7_2017": 327898,
+        "fipid": 51087
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4113846,
+          37.5908394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 44,
+        "county": "Henry County",
+        "state": "Virginia",
+        "rescen4_2010": 54151,
+        "resbase4_2010": 54185,
+        "respop7_2010": 54136,
+        "respop7_2011": 53553,
+        "respop7_2012": 53119,
+        "respop7_2013": 52761,
+        "respop7_2014": 52253,
+        "respop7_2015": 51936,
+        "respop7_2016": 51604,
+        "respop7_2017": 51227,
+        "fipid": 51089
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6416779,
+          36.8557014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 45,
+        "county": "Highland County",
+        "state": "Virginia",
+        "rescen4_2010": 2321,
+        "resbase4_2010": 2319,
+        "respop7_2010": 2297,
+        "respop7_2011": 2259,
+        "respop7_2012": 2234,
+        "respop7_2013": 2205,
+        "respop7_2014": 2238,
+        "respop7_2015": 2196,
+        "respop7_2016": 2212,
+        "respop7_2017": 2212,
+        "fipid": 51091
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5685577,
+          38.3622818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 46,
+        "county": "Isle of Wight County",
+        "state": "Virginia",
+        "rescen4_2010": 35270,
+        "resbase4_2010": 35274,
+        "respop7_2010": 35313,
+        "respop7_2011": 35289,
+        "respop7_2012": 35339,
+        "respop7_2013": 35529,
+        "respop7_2014": 35874,
+        "respop7_2015": 36171,
+        "respop7_2016": 36324,
+        "respop7_2017": 36552,
+        "fipid": 51093
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7089691,
+          36.9069023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47,
+        "county": "James City County",
+        "state": "Virginia",
+        "rescen4_2010": 67009,
+        "resbase4_2010": 67383,
+        "respop7_2010": 67674,
+        "respop7_2011": 68316,
+        "respop7_2012": 69418,
+        "respop7_2013": 70628,
+        "respop7_2014": 72082,
+        "respop7_2015": 72838,
+        "respop7_2016": 74069,
+        "respop7_2017": 75524,
+        "fipid": 51095
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7733536,
+          37.3132439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 48,
+        "county": "King and Queen County",
+        "state": "Virginia",
+        "rescen4_2010": 6945,
+        "resbase4_2010": 6942,
+        "respop7_2010": 6977,
+        "respop7_2011": 6986,
+        "respop7_2012": 7009,
+        "respop7_2013": 7026,
+        "respop7_2014": 7081,
+        "respop7_2015": 7082,
+        "respop7_2016": 7067,
+        "respop7_2017": 7003,
+        "fipid": 51097
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8952484,
+          37.7185669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 49,
+        "county": "King George County",
+        "state": "Virginia",
+        "rescen4_2010": 23584,
+        "resbase4_2010": 23584,
+        "respop7_2010": 23702,
+        "respop7_2011": 24278,
+        "respop7_2012": 24610,
+        "respop7_2013": 24906,
+        "respop7_2014": 25265,
+        "respop7_2015": 25395,
+        "respop7_2016": 25918,
+        "respop7_2017": 26337,
+        "fipid": 51099
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1566467,
+          38.2736626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 50,
+        "county": "King William County",
+        "state": "Virginia",
+        "rescen4_2010": 15935,
+        "resbase4_2010": 15927,
+        "respop7_2010": 15998,
+        "respop7_2011": 16015,
+        "respop7_2012": 15977,
+        "respop7_2013": 16095,
+        "respop7_2014": 16148,
+        "respop7_2015": 16281,
+        "respop7_2016": 16412,
+        "respop7_2017": 16708,
+        "fipid": 51101
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0728667,
+          37.7175773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 51,
+        "county": "Lancaster County",
+        "state": "Virginia",
+        "rescen4_2010": 11391,
+        "resbase4_2010": 11390,
+        "respop7_2010": 11362,
+        "respop7_2011": 11276,
+        "respop7_2012": 11125,
+        "respop7_2013": 10966,
+        "respop7_2014": 10874,
+        "respop7_2015": 10836,
+        "respop7_2016": 10778,
+        "respop7_2017": 10788,
+        "fipid": 51103
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4105377,
+          37.6988983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 52,
+        "county": "Lee County",
+        "state": "Virginia",
+        "rescen4_2010": 25587,
+        "resbase4_2010": 25583,
+        "respop7_2010": 25598,
+        "respop7_2011": 25533,
+        "respop7_2012": 25421,
+        "respop7_2013": 25068,
+        "respop7_2014": 24715,
+        "respop7_2015": 24547,
+        "respop7_2016": 24051,
+        "respop7_2017": 23758,
+        "fipid": 51105
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1285019,
+          36.7053719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 53,
+        "county": "Loudoun County",
+        "state": "Virginia",
+        "rescen4_2010": 312311,
+        "resbase4_2010": 312347,
+        "respop7_2010": 315600,
+        "respop7_2011": 326896,
+        "respop7_2012": 338275,
+        "respop7_2013": 350858,
+        "respop7_2014": 362874,
+        "respop7_2015": 374697,
+        "respop7_2016": 386279,
+        "respop7_2017": 398080,
+        "fipid": 51107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6356506,
+          39.0906982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 54,
+        "county": "Louisa County",
+        "state": "Virginia",
+        "rescen4_2010": 33153,
+        "resbase4_2010": 33168,
+        "respop7_2010": 33310,
+        "respop7_2011": 33461,
+        "respop7_2012": 33499,
+        "respop7_2013": 33993,
+        "respop7_2014": 34319,
+        "respop7_2015": 34618,
+        "respop7_2016": 35276,
+        "respop7_2017": 35860,
+        "fipid": 51109
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9629593,
+          37.9781303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 55,
+        "county": "Lunenburg County",
+        "state": "Virginia",
+        "rescen4_2010": 12914,
+        "resbase4_2010": 12916,
+        "respop7_2010": 12909,
+        "respop7_2011": 12911,
+        "respop7_2012": 12638,
+        "respop7_2013": 12531,
+        "respop7_2014": 12481,
+        "respop7_2015": 12330,
+        "respop7_2016": 12266,
+        "respop7_2017": 12235,
+        "fipid": 51111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2405319,
+          36.9462128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 56,
+        "county": "Madison County",
+        "state": "Virginia",
+        "rescen4_2010": 13308,
+        "resbase4_2010": 13309,
+        "respop7_2010": 13303,
+        "respop7_2011": 13142,
+        "respop7_2012": 13133,
+        "respop7_2013": 13093,
+        "respop7_2014": 13028,
+        "respop7_2015": 13034,
+        "respop7_2016": 13108,
+        "respop7_2017": 13277,
+        "fipid": 51113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2793961,
+          38.4139366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 57,
+        "county": "Mathews County",
+        "state": "Virginia",
+        "rescen4_2010": 8978,
+        "resbase4_2010": 8976,
+        "respop7_2010": 8973,
+        "respop7_2011": 8943,
+        "respop7_2012": 8910,
+        "respop7_2013": 8899,
+        "respop7_2014": 8815,
+        "respop7_2015": 8849,
+        "respop7_2016": 8806,
+        "respop7_2017": 8779,
+        "fipid": 51115
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2710114,
+          37.4144058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 58,
+        "county": "Mecklenburg County",
+        "state": "Virginia",
+        "rescen4_2010": 32727,
+        "resbase4_2010": 32721,
+        "respop7_2010": 32717,
+        "respop7_2011": 32567,
+        "respop7_2012": 31692,
+        "respop7_2013": 31249,
+        "respop7_2014": 31122,
+        "respop7_2015": 30951,
+        "respop7_2016": 30786,
+        "respop7_2017": 30686,
+        "fipid": 51117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.3626251,
+          36.6803322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 59,
+        "county": "Middlesex County",
+        "state": "Virginia",
+        "rescen4_2010": 10959,
+        "resbase4_2010": 10959,
+        "respop7_2010": 10979,
+        "respop7_2011": 10851,
+        "respop7_2012": 10845,
+        "respop7_2013": 10776,
+        "respop7_2014": 10650,
+        "respop7_2015": 10678,
+        "respop7_2016": 10768,
+        "respop7_2017": 10679,
+        "fipid": 51119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5073624,
+          37.6230011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 60,
+        "county": "Montgomery County",
+        "state": "Virginia",
+        "rescen4_2010": 94392,
+        "resbase4_2010": 94421,
+        "respop7_2010": 94584,
+        "respop7_2011": 94841,
+        "respop7_2012": 95671,
+        "respop7_2013": 96726,
+        "respop7_2014": 97250,
+        "respop7_2015": 97485,
+        "respop7_2016": 98440,
+        "respop7_2017": 98559,
+        "fipid": 51121
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3871994,
+          37.1741982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 61,
+        "county": "Nelson County",
+        "state": "Virginia",
+        "rescen4_2010": 15020,
+        "resbase4_2010": 15015,
+        "respop7_2010": 14978,
+        "respop7_2011": 15018,
+        "respop7_2012": 14803,
+        "respop7_2013": 14803,
+        "respop7_2014": 14883,
+        "respop7_2015": 14790,
+        "respop7_2016": 14895,
+        "respop7_2017": 14943,
+        "fipid": 51125
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8867645,
+          37.7873611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 62,
+        "county": "New Kent County",
+        "state": "Virginia",
+        "rescen4_2010": 18429,
+        "resbase4_2010": 18432,
+        "respop7_2010": 18544,
+        "respop7_2011": 18766,
+        "respop7_2012": 19149,
+        "respop7_2013": 19509,
+        "respop7_2014": 20014,
+        "respop7_2015": 20382,
+        "respop7_2016": 21030,
+        "respop7_2017": 21682,
+        "fipid": 51127
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9971542,
+          37.505146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 63,
+        "county": "Northampton County",
+        "state": "Virginia",
+        "rescen4_2010": 12389,
+        "resbase4_2010": 12389,
+        "respop7_2010": 12408,
+        "respop7_2011": 12406,
+        "respop7_2012": 12218,
+        "respop7_2013": 12024,
+        "respop7_2014": 12032,
+        "respop7_2015": 12084,
+        "respop7_2016": 12006,
+        "respop7_2017": 11846,
+        "fipid": 51131
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9661942,
+          37.3130531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 64,
+        "county": "Northumberland County",
+        "state": "Virginia",
+        "rescen4_2010": 12330,
+        "resbase4_2010": 12331,
+        "respop7_2010": 12356,
+        "respop7_2011": 12453,
+        "respop7_2012": 12423,
+        "respop7_2013": 12298,
+        "respop7_2014": 12256,
+        "respop7_2015": 12247,
+        "respop7_2016": 12195,
+        "respop7_2017": 12275,
+        "fipid": 51133
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2991486,
+          37.8359413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 65,
+        "county": "Nottoway County",
+        "state": "Virginia",
+        "rescen4_2010": 15853,
+        "resbase4_2010": 15852,
+        "respop7_2010": 15828,
+        "respop7_2011": 15878,
+        "respop7_2012": 15756,
+        "respop7_2013": 15629,
+        "respop7_2014": 15506,
+        "respop7_2015": 15604,
+        "respop7_2016": 15510,
+        "respop7_2017": 15434,
+        "fipid": 51135
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0512161,
+          37.1430779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 66,
+        "county": "Orange County",
+        "state": "Virginia",
+        "rescen4_2010": 33481,
+        "resbase4_2010": 33554,
+        "respop7_2010": 33578,
+        "respop7_2011": 33998,
+        "respop7_2012": 34280,
+        "respop7_2013": 34626,
+        "respop7_2014": 34937,
+        "respop7_2015": 35209,
+        "respop7_2016": 35481,
+        "respop7_2017": 36073,
+        "fipid": 51137
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0136795,
+          38.2462196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 67,
+        "county": "Page County",
+        "state": "Virginia",
+        "rescen4_2010": 24042,
+        "resbase4_2010": 24050,
+        "respop7_2010": 24064,
+        "respop7_2011": 23953,
+        "respop7_2012": 23839,
+        "respop7_2013": 23722,
+        "respop7_2014": 23779,
+        "respop7_2015": 23649,
+        "respop7_2016": 23591,
+        "respop7_2017": 23731,
+        "fipid": 51139
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4842682,
+          38.6200562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 68,
+        "county": "Patrick County",
+        "state": "Virginia",
+        "rescen4_2010": 18490,
+        "resbase4_2010": 18495,
+        "respop7_2010": 18464,
+        "respop7_2011": 18329,
+        "respop7_2012": 18326,
+        "respop7_2013": 18243,
+        "respop7_2014": 18169,
+        "respop7_2015": 17946,
+        "respop7_2016": 17769,
+        "respop7_2017": 17665,
+        "fipid": 51141
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2841721,
+          36.6784096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 69,
+        "county": "Pittsylvania County",
+        "state": "Virginia",
+        "rescen4_2010": 63506,
+        "resbase4_2010": 63476,
+        "respop7_2010": 63593,
+        "respop7_2011": 63259,
+        "respop7_2012": 62903,
+        "respop7_2013": 62559,
+        "respop7_2014": 62371,
+        "respop7_2015": 61987,
+        "respop7_2016": 61673,
+        "respop7_2017": 61258,
+        "fipid": 51143
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39711,
+          36.8213654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 70,
+        "county": "Powhatan County",
+        "state": "Virginia",
+        "rescen4_2010": 28046,
+        "resbase4_2010": 28062,
+        "respop7_2010": 28120,
+        "respop7_2011": 28125,
+        "respop7_2012": 28171,
+        "respop7_2013": 28293,
+        "respop7_2014": 28483,
+        "respop7_2015": 28045,
+        "respop7_2016": 28398,
+        "respop7_2017": 28601,
+        "fipid": 51145
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9149475,
+          37.5505676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 71,
+        "county": "Prince Edward County",
+        "state": "Virginia",
+        "rescen4_2010": 23368,
+        "resbase4_2010": 23357,
+        "respop7_2010": 23355,
+        "respop7_2011": 23227,
+        "respop7_2012": 23166,
+        "respop7_2013": 22718,
+        "respop7_2014": 22969,
+        "respop7_2015": 23100,
+        "respop7_2016": 23023,
+        "respop7_2017": 22703,
+        "fipid": 51147
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4410553,
+          37.2242966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 72,
+        "county": "Prince George County",
+        "state": "Virginia",
+        "rescen4_2010": 35725,
+        "resbase4_2010": 35706,
+        "respop7_2010": 35634,
+        "respop7_2011": 36706,
+        "respop7_2012": 37119,
+        "respop7_2013": 37336,
+        "respop7_2014": 37401,
+        "respop7_2015": 38168,
+        "respop7_2016": 37807,
+        "respop7_2017": 37809,
+        "fipid": 51149
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2242889,
+          37.1867599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 73,
+        "county": "Prince William County",
+        "state": "Virginia",
+        "rescen4_2010": 402002,
+        "resbase4_2010": 401994,
+        "respop7_2010": 406295,
+        "respop7_2011": 419591,
+        "respop7_2012": 430080,
+        "respop7_2013": 438653,
+        "respop7_2014": 444332,
+        "respop7_2015": 451247,
+        "respop7_2016": 456560,
+        "respop7_2017": 463023,
+        "fipid": 51153
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4773331,
+          38.7015419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 74,
+        "county": "Pulaski County",
+        "state": "Virginia",
+        "rescen4_2010": 34872,
+        "resbase4_2010": 34859,
+        "respop7_2010": 34829,
+        "respop7_2011": 34736,
+        "respop7_2012": 34737,
+        "respop7_2013": 34544,
+        "respop7_2014": 34341,
+        "respop7_2015": 34340,
+        "respop7_2016": 34240,
+        "respop7_2017": 34184,
+        "fipid": 51155
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.714035,
+          37.0635376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 75,
+        "county": "Rappahannock County",
+        "state": "Virginia",
+        "rescen4_2010": 7373,
+        "resbase4_2010": 7503,
+        "respop7_2010": 7497,
+        "respop7_2011": 7472,
+        "respop7_2012": 7405,
+        "respop7_2013": 7424,
+        "respop7_2014": 7331,
+        "respop7_2015": 7384,
+        "respop7_2016": 7333,
+        "respop7_2017": 7321,
+        "fipid": 51157
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1592255,
+          38.6845474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 76,
+        "county": "Richmond County",
+        "state": "Virginia",
+        "rescen4_2010": 9254,
+        "resbase4_2010": 9254,
+        "respop7_2010": 9279,
+        "respop7_2011": 9207,
+        "respop7_2012": 9082,
+        "respop7_2013": 8956,
+        "respop7_2014": 8890,
+        "respop7_2015": 8795,
+        "respop7_2016": 8784,
+        "respop7_2017": 8939,
+        "fipid": 51159
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7296066,
+          37.9369583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 77,
+        "county": "Roanoke County",
+        "state": "Virginia",
+        "rescen4_2010": 92376,
+        "resbase4_2010": 92474,
+        "respop7_2010": 92414,
+        "respop7_2011": 92847,
+        "respop7_2012": 92746,
+        "respop7_2013": 93338,
+        "respop7_2014": 93368,
+        "respop7_2015": 93296,
+        "respop7_2016": 93363,
+        "respop7_2017": 93730,
+        "fipid": 51161
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0800018,
+          37.2700005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 78,
+        "county": "Rockbridge County",
+        "state": "Virginia",
+        "rescen4_2010": 22307,
+        "resbase4_2010": 22349,
+        "respop7_2010": 22343,
+        "respop7_2011": 22439,
+        "respop7_2012": 22373,
+        "respop7_2013": 22326,
+        "respop7_2014": 22429,
+        "respop7_2015": 22376,
+        "respop7_2016": 22411,
+        "respop7_2017": 22659,
+        "fipid": 51163
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4475632,
+          37.8145676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 79,
+        "county": "Rockingham County",
+        "state": "Virginia",
+        "rescen4_2010": 76314,
+        "resbase4_2010": 76314,
+        "respop7_2010": 76401,
+        "respop7_2011": 76849,
+        "respop7_2012": 77126,
+        "respop7_2013": 77417,
+        "respop7_2014": 77874,
+        "respop7_2015": 78450,
+        "respop7_2016": 79298,
+        "respop7_2017": 80227,
+        "fipid": 51165
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8759003,
+          38.5122261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 80,
+        "county": "Russell County",
+        "state": "Virginia",
+        "rescen4_2010": 28897,
+        "resbase4_2010": 28899,
+        "respop7_2010": 28854,
+        "respop7_2011": 28656,
+        "respop7_2012": 28400,
+        "respop7_2013": 28309,
+        "respop7_2014": 28046,
+        "respop7_2015": 27826,
+        "respop7_2016": 27394,
+        "respop7_2017": 27048,
+        "fipid": 51167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0956345,
+          36.9337006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 81,
+        "county": "Scott County",
+        "state": "Virginia",
+        "rescen4_2010": 23177,
+        "resbase4_2010": 23174,
+        "respop7_2010": 23134,
+        "respop7_2011": 23061,
+        "respop7_2012": 22959,
+        "respop7_2013": 22774,
+        "respop7_2014": 22529,
+        "respop7_2015": 22256,
+        "respop7_2016": 22028,
+        "respop7_2017": 21865,
+        "fipid": 51169
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6029587,
+          36.7141647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 82,
+        "county": "Shenandoah County",
+        "state": "Virginia",
+        "rescen4_2010": 41993,
+        "resbase4_2010": 41996,
+        "respop7_2010": 42052,
+        "respop7_2011": 42262,
+        "respop7_2012": 42532,
+        "respop7_2013": 42512,
+        "respop7_2014": 42743,
+        "respop7_2015": 42864,
+        "respop7_2016": 42928,
+        "respop7_2017": 43225,
+        "fipid": 51171
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5704575,
+          38.8584061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 83,
+        "county": "Smyth County",
+        "state": "Virginia",
+        "rescen4_2010": 32208,
+        "resbase4_2010": 32213,
+        "respop7_2010": 32197,
+        "respop7_2011": 32044,
+        "respop7_2012": 31903,
+        "respop7_2013": 31773,
+        "respop7_2014": 31573,
+        "respop7_2015": 31413,
+        "respop7_2016": 31075,
+        "respop7_2017": 30656,
+        "fipid": 51173
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5370483,
+          36.843895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 84,
+        "county": "Southampton County",
+        "state": "Virginia",
+        "rescen4_2010": 18570,
+        "resbase4_2010": 18570,
+        "respop7_2010": 18636,
+        "respop7_2011": 18631,
+        "respop7_2012": 18504,
+        "respop7_2013": 18327,
+        "respop7_2014": 18222,
+        "respop7_2015": 18129,
+        "respop7_2016": 18019,
+        "respop7_2017": 17750,
+        "fipid": 51175
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1058426,
+          36.7202911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 85,
+        "county": "Spotsylvania County",
+        "state": "Virginia",
+        "rescen4_2010": 122397,
+        "resbase4_2010": 122449,
+        "respop7_2010": 122978,
+        "respop7_2011": 124534,
+        "respop7_2012": 125833,
+        "respop7_2013": 127445,
+        "respop7_2014": 128880,
+        "respop7_2015": 130032,
+        "respop7_2016": 131405,
+        "respop7_2017": 133033,
+        "fipid": 51177
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6557922,
+          38.1856232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 86,
+        "county": "Stafford County",
+        "state": "Virginia",
+        "rescen4_2010": 128961,
+        "resbase4_2010": 128965,
+        "respop7_2010": 129822,
+        "respop7_2011": 132207,
+        "respop7_2012": 133376,
+        "respop7_2013": 135978,
+        "respop7_2014": 138802,
+        "respop7_2015": 140891,
+        "respop7_2016": 143477,
+        "respop7_2017": 146649,
+        "fipid": 51179
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4575729,
+          38.4207878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 87,
+        "county": "Surry County",
+        "state": "Virginia",
+        "rescen4_2010": 7058,
+        "resbase4_2010": 7065,
+        "respop7_2010": 7045,
+        "respop7_2011": 6923,
+        "respop7_2012": 6839,
+        "respop7_2013": 6788,
+        "respop7_2014": 6781,
+        "respop7_2015": 6670,
+        "respop7_2016": 6570,
+        "respop7_2017": 6540,
+        "fipid": 51181
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8883972,
+          37.1167984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 88,
+        "county": "Sussex County",
+        "state": "Virginia",
+        "rescen4_2010": 12087,
+        "resbase4_2010": 12070,
+        "respop7_2010": 12012,
+        "respop7_2011": 12085,
+        "respop7_2012": 11917,
+        "respop7_2013": 11763,
+        "respop7_2014": 11723,
+        "respop7_2015": 11689,
+        "respop7_2016": 11426,
+        "respop7_2017": 11373,
+        "fipid": 51183
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2619019,
+          36.9216118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 89,
+        "county": "Tazewell County",
+        "state": "Virginia",
+        "rescen4_2010": 45078,
+        "resbase4_2010": 45073,
+        "respop7_2010": 45131,
+        "respop7_2011": 44738,
+        "respop7_2012": 44277,
+        "respop7_2013": 44025,
+        "respop7_2014": 43382,
+        "respop7_2015": 42898,
+        "respop7_2016": 42046,
+        "respop7_2017": 41095,
+        "fipid": 51185
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5606155,
+          37.1249924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 90,
+        "county": "Warren County",
+        "state": "Virginia",
+        "rescen4_2010": 37575,
+        "resbase4_2010": 37430,
+        "respop7_2010": 37497,
+        "respop7_2011": 37623,
+        "respop7_2012": 37865,
+        "respop7_2013": 38476,
+        "respop7_2014": 38958,
+        "respop7_2015": 38891,
+        "respop7_2016": 39066,
+        "respop7_2017": 39563,
+        "fipid": 51187
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.207428,
+          38.9086914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 91,
+        "county": "Washington County",
+        "state": "Virginia",
+        "rescen4_2010": 54876,
+        "resbase4_2010": 54959,
+        "respop7_2010": 54961,
+        "respop7_2011": 54802,
+        "respop7_2012": 55096,
+        "respop7_2013": 54774,
+        "respop7_2014": 54581,
+        "respop7_2015": 54308,
+        "respop7_2016": 54237,
+        "respop7_2017": 54387,
+        "fipid": 51191
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9601822,
+          36.7242851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 92,
+        "county": "Westmoreland County",
+        "state": "Virginia",
+        "rescen4_2010": 17454,
+        "resbase4_2010": 17454,
+        "respop7_2010": 17483,
+        "respop7_2011": 17626,
+        "respop7_2012": 17507,
+        "respop7_2013": 17547,
+        "respop7_2014": 17439,
+        "respop7_2015": 17553,
+        "respop7_2016": 17659,
+        "respop7_2017": 17780,
+        "fipid": 51193
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8002625,
+          38.1127739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 93,
+        "county": "Wise County",
+        "state": "Virginia",
+        "rescen4_2010": 41452,
+        "resbase4_2010": 41428,
+        "respop7_2010": 41561,
+        "respop7_2011": 41439,
+        "respop7_2012": 40899,
+        "respop7_2013": 40653,
+        "respop7_2014": 39884,
+        "respop7_2015": 39540,
+        "respop7_2016": 39034,
+        "respop7_2017": 38586,
+        "fipid": 51195
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6212234,
+          36.9751358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 94,
+        "county": "Wythe County",
+        "state": "Virginia",
+        "rescen4_2010": 29235,
+        "resbase4_2010": 29235,
+        "respop7_2010": 29241,
+        "respop7_2011": 29188,
+        "respop7_2012": 29317,
+        "respop7_2013": 29272,
+        "respop7_2014": 29045,
+        "respop7_2015": 29101,
+        "respop7_2016": 28942,
+        "respop7_2017": 28882,
+        "fipid": 51197
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0786057,
+          36.9171448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 95,
+        "county": "York County",
+        "state": "Virginia",
+        "rescen4_2010": 65464,
+        "resbase4_2010": 65263,
+        "respop7_2010": 65295,
+        "respop7_2011": 65861,
+        "respop7_2012": 65892,
+        "respop7_2013": 66079,
+        "respop7_2014": 66601,
+        "respop7_2015": 67821,
+        "respop7_2016": 67742,
+        "respop7_2017": 67739,
+        "fipid": 51199
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.492981,
+          37.2353973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 96,
+        "county": "Alexandria city",
+        "state": "Virginia",
+        "rescen4_2010": 139966,
+        "resbase4_2010": 140006,
+        "respop7_2010": 140823,
+        "respop7_2011": 144598,
+        "respop7_2012": 147528,
+        "respop7_2013": 150268,
+        "respop7_2014": 151828,
+        "respop7_2015": 154132,
+        "respop7_2016": 157288,
+        "respop7_2017": 160035,
+        "fipid": 51510
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0862274,
+          38.8183861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 97,
+        "county": "Bristol city",
+        "state": "Virginia",
+        "rescen4_2010": 17835,
+        "resbase4_2010": 17744,
+        "respop7_2010": 17772,
+        "respop7_2011": 17721,
+        "respop7_2012": 17702,
+        "respop7_2013": 17398,
+        "respop7_2014": 17212,
+        "respop7_2015": 17058,
+        "respop7_2016": 16927,
+        "respop7_2017": 16790,
+        "fipid": 51520
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1659088,
+          36.6129189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 98,
+        "county": "Buena Vista city",
+        "state": "Virginia",
+        "rescen4_2010": 6650,
+        "resbase4_2010": 6617,
+        "respop7_2010": 6621,
+        "respop7_2011": 6720,
+        "respop7_2012": 6756,
+        "respop7_2013": 6663,
+        "respop7_2014": 6560,
+        "respop7_2015": 6543,
+        "respop7_2016": 6384,
+        "respop7_2017": 6327,
+        "fipid": 51530
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3566132,
+          37.7314987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 99,
+        "county": "Charlottesville city",
+        "state": "Virginia",
+        "rescen4_2010": 43475,
+        "resbase4_2010": 43428,
+        "respop7_2010": 43489,
+        "respop7_2011": 43835,
+        "respop7_2012": 44601,
+        "respop7_2013": 45081,
+        "respop7_2014": 45575,
+        "respop7_2015": 46476,
+        "respop7_2016": 47286,
+        "respop7_2017": 48019,
+        "fipid": 51540
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4870224,
+          38.0373116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 100,
+        "county": "Chesapeake city",
+        "state": "Virginia",
+        "rescen4_2010": 222209,
+        "resbase4_2010": 222306,
+        "respop7_2010": 223559,
+        "respop7_2011": 225381,
+        "respop7_2012": 228100,
+        "respop7_2013": 230410,
+        "respop7_2014": 233430,
+        "respop7_2015": 235192,
+        "respop7_2016": 237621,
+        "respop7_2017": 240397,
+        "fipid": 51550
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3022308,
+          36.6777306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 101,
+        "county": "Colonial Heights city",
+        "state": "Virginia",
+        "rescen4_2010": 17411,
+        "resbase4_2010": 17410,
+        "respop7_2010": 17340,
+        "respop7_2011": 17286,
+        "respop7_2012": 17380,
+        "respop7_2013": 17488,
+        "respop7_2014": 17452,
+        "respop7_2015": 17496,
+        "respop7_2016": 17642,
+        "respop7_2017": 17830,
+        "fipid": 51570
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3969421,
+          37.2649994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 102,
+        "county": "Covington city",
+        "state": "Virginia",
+        "rescen4_2010": 5961,
+        "resbase4_2010": 5954,
+        "respop7_2010": 5943,
+        "respop7_2011": 5917,
+        "respop7_2012": 5845,
+        "respop7_2013": 5832,
+        "respop7_2014": 5773,
+        "respop7_2015": 5655,
+        "respop7_2016": 5582,
+        "respop7_2017": 5531,
+        "fipid": 51580
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9868317,
+          37.7785606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 103,
+        "county": "Danville city",
+        "state": "Virginia",
+        "rescen4_2010": 43055,
+        "resbase4_2010": 43074,
+        "respop7_2010": 42918,
+        "respop7_2011": 42642,
+        "respop7_2012": 42705,
+        "respop7_2013": 42632,
+        "respop7_2014": 42242,
+        "respop7_2015": 41910,
+        "respop7_2016": 41643,
+        "respop7_2017": 41130,
+        "fipid": 51590
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4086151,
+          36.5832367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 104,
+        "county": "Emporia city",
+        "state": "Virginia",
+        "rescen4_2010": 5927,
+        "resbase4_2010": 5925,
+        "respop7_2010": 5920,
+        "respop7_2011": 5838,
+        "respop7_2012": 5811,
+        "respop7_2013": 5691,
+        "respop7_2014": 5599,
+        "respop7_2015": 5529,
+        "respop7_2016": 5375,
+        "respop7_2017": 5282,
+        "fipid": 51595
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5359116,
+          36.69524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 105,
+        "county": "Fairfax city",
+        "state": "Virginia",
+        "rescen4_2010": 22565,
+        "resbase4_2010": 22542,
+        "respop7_2010": 22612,
+        "respop7_2011": 22482,
+        "respop7_2012": 22892,
+        "respop7_2013": 23270,
+        "respop7_2014": 23304,
+        "respop7_2015": 23404,
+        "respop7_2016": 23827,
+        "respop7_2017": 24097,
+        "fipid": 51600
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2764053,
+          38.8350716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 106,
+        "county": "Falls Church city",
+        "state": "Virginia",
+        "rescen4_2010": 12332,
+        "resbase4_2010": 12282,
+        "respop7_2010": 12442,
+        "respop7_2011": 12715,
+        "respop7_2012": 13125,
+        "respop7_2013": 13416,
+        "respop7_2014": 13465,
+        "respop7_2015": 13881,
+        "respop7_2016": 13868,
+        "respop7_2017": 14583,
+        "fipid": 51610
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1736221,
+          38.8854904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 107,
+        "county": "Franklin city",
+        "state": "Virginia",
+        "rescen4_2010": 8582,
+        "resbase4_2010": 8580,
+        "respop7_2010": 8581,
+        "respop7_2011": 8448,
+        "respop7_2012": 8484,
+        "respop7_2013": 8541,
+        "respop7_2014": 8395,
+        "respop7_2015": 8329,
+        "respop7_2016": 8228,
+        "respop7_2017": 8176,
+        "fipid": 51620
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3829727,
+          38.0073891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 108,
+        "county": "Fredericksburg city",
+        "state": "Virginia",
+        "rescen4_2010": 24286,
+        "resbase4_2010": 24178,
+        "respop7_2010": 24363,
+        "respop7_2011": 25761,
+        "respop7_2012": 27186,
+        "respop7_2013": 27833,
+        "respop7_2014": 28227,
+        "respop7_2015": 27985,
+        "respop7_2016": 28271,
+        "respop7_2017": 28360,
+        "fipid": 51630
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4870987,
+          38.2995148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 109,
+        "county": "Galax city",
+        "state": "Virginia",
+        "rescen4_2010": 7042,
+        "resbase4_2010": 6989,
+        "respop7_2010": 6990,
+        "respop7_2011": 6845,
+        "respop7_2012": 6857,
+        "respop7_2013": 6936,
+        "respop7_2014": 6908,
+        "respop7_2015": 6806,
+        "respop7_2016": 6664,
+        "respop7_2017": 6625,
+        "fipid": 51640
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9172592,
+          36.6661072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 110,
+        "county": "Hampton city",
+        "state": "Virginia",
+        "rescen4_2010": 137436,
+        "resbase4_2010": 137384,
+        "respop7_2010": 137343,
+        "respop7_2011": 136567,
+        "respop7_2012": 137099,
+        "respop7_2013": 137301,
+        "respop7_2014": 137675,
+        "respop7_2015": 136296,
+        "respop7_2016": 135332,
+        "respop7_2017": 134669,
+        "fipid": 51650
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2954178,
+          37.0487289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 111,
+        "county": "Harrisonburg city",
+        "state": "Virginia",
+        "rescen4_2010": 48914,
+        "resbase4_2010": 48909,
+        "respop7_2010": 49015,
+        "respop7_2011": 49998,
+        "respop7_2012": 51355,
+        "respop7_2013": 51635,
+        "respop7_2014": 52658,
+        "respop7_2015": 52869,
+        "respop7_2016": 53943,
+        "respop7_2017": 54215,
+        "fipid": 51660
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8734894,
+          38.4361115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 112,
+        "county": "Hopewell city",
+        "state": "Virginia",
+        "rescen4_2010": 22591,
+        "resbase4_2010": 22602,
+        "respop7_2010": 22652,
+        "respop7_2011": 22505,
+        "respop7_2012": 22319,
+        "respop7_2013": 22175,
+        "respop7_2014": 22117,
+        "respop7_2015": 22233,
+        "respop7_2016": 22619,
+        "respop7_2017": 22621,
+        "fipid": 51670
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.298645,
+          37.2919044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 113,
+        "county": "Lexington city",
+        "state": "Virginia",
+        "rescen4_2010": 7042,
+        "resbase4_2010": 7033,
+        "respop7_2010": 7042,
+        "respop7_2011": 6966,
+        "respop7_2012": 7009,
+        "respop7_2013": 7140,
+        "respop7_2014": 7116,
+        "respop7_2015": 7117,
+        "respop7_2016": 7087,
+        "respop7_2017": 7106,
+        "fipid": 51678
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4438782,
+          37.782486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 114,
+        "county": "Lynchburg city",
+        "state": "Virginia",
+        "rescen4_2010": 75568,
+        "resbase4_2010": 75532,
+        "respop7_2010": 75565,
+        "respop7_2011": 76618,
+        "respop7_2012": 77285,
+        "respop7_2013": 77999,
+        "respop7_2014": 78134,
+        "respop7_2015": 79146,
+        "respop7_2016": 79912,
+        "respop7_2017": 80995,
+        "fipid": 51680
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.190979,
+          37.4004135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 115,
+        "county": "Manassas city",
+        "state": "Virginia",
+        "rescen4_2010": 37821,
+        "resbase4_2010": 37819,
+        "respop7_2010": 38245,
+        "respop7_2011": 39174,
+        "respop7_2012": 40340,
+        "respop7_2013": 41183,
+        "respop7_2014": 41210,
+        "respop7_2015": 41542,
+        "respop7_2016": 41457,
+        "respop7_2017": 41501,
+        "fipid": 51683
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4836502,
+          38.747921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 116,
+        "county": "Manassas Park city",
+        "state": "Virginia",
+        "rescen4_2010": 14273,
+        "resbase4_2010": 14241,
+        "respop7_2010": 14456,
+        "respop7_2011": 15092,
+        "respop7_2012": 15422,
+        "respop7_2013": 15947,
+        "respop7_2014": 15938,
+        "respop7_2015": 16026,
+        "respop7_2016": 16085,
+        "respop7_2017": 16591,
+        "fipid": 51685
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4721222,
+          38.7883034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 117,
+        "county": "Martinsville city",
+        "state": "Virginia",
+        "rescen4_2010": 13821,
+        "resbase4_2010": 13811,
+        "respop7_2010": 13757,
+        "respop7_2011": 13593,
+        "respop7_2012": 13486,
+        "respop7_2013": 13414,
+        "respop7_2014": 13321,
+        "respop7_2015": 13282,
+        "respop7_2016": 13119,
+        "respop7_2017": 13142,
+        "fipid": 51690
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8635864,
+          36.682663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 118,
+        "county": "Newport News city",
+        "state": "Virginia",
+        "rescen4_2010": 180719,
+        "resbase4_2010": 180963,
+        "respop7_2010": 180921,
+        "respop7_2011": 180135,
+        "respop7_2012": 180100,
+        "respop7_2013": 181364,
+        "respop7_2014": 181653,
+        "respop7_2015": 181083,
+        "respop7_2016": 180388,
+        "respop7_2017": 179388,
+        "fipid": 51700
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5158081,
+          37.0751839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 119,
+        "county": "Norfolk city",
+        "state": "Virginia",
+        "rescen4_2010": 242803,
+        "resbase4_2010": 242823,
+        "respop7_2010": 243027,
+        "respop7_2011": 243725,
+        "respop7_2012": 246160,
+        "respop7_2013": 245601,
+        "respop7_2014": 246574,
+        "respop7_2015": 246352,
+        "respop7_2016": 245532,
+        "respop7_2017": 244703,
+        "fipid": 51710
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2463379,
+          36.9219131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 120,
+        "county": "Norton city",
+        "state": "Virginia",
+        "rescen4_2010": 3958,
+        "resbase4_2010": 4002,
+        "respop7_2010": 4022,
+        "respop7_2011": 4096,
+        "respop7_2012": 4135,
+        "respop7_2013": 4111,
+        "respop7_2014": 4152,
+        "respop7_2015": 4027,
+        "respop7_2016": 3988,
+        "respop7_2017": 3936,
+        "fipid": 51720
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6259155,
+          36.931633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 121,
+        "county": "Petersburg city",
+        "state": "Virginia",
+        "rescen4_2010": 32420,
+        "resbase4_2010": 32437,
+        "respop7_2010": 32496,
+        "respop7_2011": 32079,
+        "respop7_2012": 31990,
+        "respop7_2013": 32311,
+        "respop7_2014": 32240,
+        "respop7_2015": 32034,
+        "respop7_2016": 31850,
+        "respop7_2017": 31750,
+        "fipid": 51730
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3916473,
+          37.2043915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 122,
+        "county": "Poquoson city",
+        "state": "Virginia",
+        "rescen4_2010": 12150,
+        "resbase4_2010": 12157,
+        "respop7_2010": 12145,
+        "respop7_2011": 12039,
+        "respop7_2012": 12111,
+        "respop7_2013": 12091,
+        "respop7_2014": 12004,
+        "respop7_2015": 12013,
+        "respop7_2016": 11947,
+        "respop7_2017": 12053,
+        "fipid": 51735
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2639236,
+          37.1542168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 123,
+        "county": "Portsmouth city",
+        "state": "Virginia",
+        "rescen4_2010": 95535,
+        "resbase4_2010": 95527,
+        "respop7_2010": 95449,
+        "respop7_2011": 95738,
+        "respop7_2012": 96465,
+        "respop7_2013": 96069,
+        "respop7_2014": 95802,
+        "respop7_2015": 96241,
+        "respop7_2016": 94997,
+        "respop7_2017": 94572,
+        "fipid": 51740
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3562241,
+          36.8584442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 124,
+        "county": "Radford city",
+        "state": "Virginia",
+        "rescen4_2010": 16408,
+        "resbase4_2010": 16395,
+        "respop7_2010": 16435,
+        "respop7_2011": 16824,
+        "respop7_2012": 16716,
+        "respop7_2013": 17124,
+        "respop7_2014": 17389,
+        "respop7_2015": 17319,
+        "respop7_2016": 17410,
+        "respop7_2017": 17658,
+        "fipid": 51750
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5633087,
+          37.1214294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 125,
+        "county": "Richmond city",
+        "state": "Virginia",
+        "rescen4_2010": 204214,
+        "resbase4_2010": 204271,
+        "respop7_2010": 204241,
+        "respop7_2011": 206410,
+        "respop7_2012": 210842,
+        "respop7_2013": 214012,
+        "respop7_2014": 217185,
+        "respop7_2015": 220943,
+        "respop7_2016": 225288,
+        "respop7_2017": 227032,
+        "fipid": 51760
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4336472,
+          37.540699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 126,
+        "county": "Roanoke city",
+        "state": "Virginia",
+        "rescen4_2010": 97032,
+        "resbase4_2010": 96917,
+        "respop7_2010": 96750,
+        "respop7_2011": 96846,
+        "respop7_2012": 98098,
+        "respop7_2013": 98938,
+        "respop7_2014": 99520,
+        "respop7_2015": 99823,
+        "respop7_2016": 99743,
+        "respop7_2017": 99837,
+        "fipid": 51770
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9580154,
+          37.2782822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 127,
+        "county": "Salem city",
+        "state": "Virginia",
+        "rescen4_2010": 24802,
+        "resbase4_2010": 24817,
+        "respop7_2010": 24878,
+        "respop7_2011": 25009,
+        "respop7_2012": 25157,
+        "respop7_2013": 25310,
+        "respop7_2014": 25435,
+        "respop7_2015": 25449,
+        "respop7_2016": 25547,
+        "respop7_2017": 25862,
+        "fipid": 51775
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0550613,
+          37.28619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 128,
+        "county": "Staunton city",
+        "state": "Virginia",
+        "rescen4_2010": 23746,
+        "resbase4_2010": 23745,
+        "respop7_2010": 23739,
+        "respop7_2011": 24029,
+        "respop7_2012": 23806,
+        "respop7_2013": 24109,
+        "respop7_2014": 24281,
+        "respop7_2015": 24192,
+        "respop7_2016": 24257,
+        "respop7_2017": 24528,
+        "fipid": 51790
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0607986,
+          38.1592827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 129,
+        "county": "Suffolk city",
+        "state": "Virginia",
+        "rescen4_2010": 84585,
+        "resbase4_2010": 84570,
+        "respop7_2010": 84820,
+        "respop7_2011": 84754,
+        "respop7_2012": 85251,
+        "respop7_2013": 85770,
+        "respop7_2014": 86880,
+        "respop7_2015": 88103,
+        "respop7_2016": 89294,
+        "respop7_2017": 90237,
+        "fipid": 51800
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6339798,
+          36.7018356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 130,
+        "county": "Virginia Beach city",
+        "state": "Virginia",
+        "rescen4_2010": 437994,
+        "resbase4_2010": 437907,
+        "respop7_2010": 438921,
+        "respop7_2011": 442868,
+        "respop7_2012": 445286,
+        "respop7_2013": 448226,
+        "respop7_2014": 449355,
+        "respop7_2015": 450864,
+        "respop7_2016": 451404,
+        "respop7_2017": 450435,
+        "fipid": 51810
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0500488,
+          36.7727242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 131,
+        "county": "Waynesboro city",
+        "state": "Virginia",
+        "rescen4_2010": 21006,
+        "resbase4_2010": 21000,
+        "respop7_2010": 20996,
+        "respop7_2011": 21105,
+        "respop7_2012": 21070,
+        "respop7_2013": 21181,
+        "respop7_2014": 21288,
+        "respop7_2015": 21502,
+        "respop7_2016": 21802,
+        "respop7_2017": 22327,
+        "fipid": 51820
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9012451,
+          38.0673027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 132,
+        "county": "Williamsburg city",
+        "state": "Virginia",
+        "rescen4_2010": 14068,
+        "resbase4_2010": 13693,
+        "respop7_2010": 13725,
+        "respop7_2011": 14116,
+        "respop7_2012": 14508,
+        "respop7_2013": 14618,
+        "respop7_2014": 14619,
+        "respop7_2015": 14866,
+        "respop7_2016": 14952,
+        "respop7_2017": 15031,
+        "fipid": 51830
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7075577,
+          37.269268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 133,
+        "county": "Winchester city",
+        "state": "Virginia",
+        "rescen4_2010": 26203,
+        "resbase4_2010": 26219,
+        "respop7_2010": 26148,
+        "respop7_2011": 26662,
+        "respop7_2012": 27012,
+        "respop7_2013": 27339,
+        "respop7_2014": 27358,
+        "respop7_2015": 27383,
+        "respop7_2016": 27566,
+        "respop7_2017": 27932,
+        "fipid": 51840
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1746826,
+          39.1734009
+        ]
+      }
+    }
+  ]
+}
